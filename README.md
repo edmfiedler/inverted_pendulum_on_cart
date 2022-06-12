@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/RsIf2X2.gif" width="60%" height="50%">
 </div>
 
-&nbsp
+&nbsp;
 
 This project outlines the control of an inverted pendulum on a cart.
 This is a common problem used in control theory as it is a simple yet
