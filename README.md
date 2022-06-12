@@ -1,7 +1,7 @@
 # Inverted Pendulum on Cart
 
 <div align="center">
-  ![](https://i.imgur.com/RsIf2X2.gif)
+  <img src="https://i.imgur.com/RsIf2X2.gif" width="50%" height="50%">
 </div>
   
 This project outlines the control of an inverted pendulum on a cart.
