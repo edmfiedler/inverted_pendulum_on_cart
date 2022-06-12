@@ -1,8 +1,8 @@
 # Inverted Pendulum on Cart
 
-<center>
+<div align="center">
 ![](https://i.imgur.com/RsIf2X2.gif)
-</center>
+</div>
   
 This project outlines the control of an inverted pendulum on a cart.
 This is a common problem used in control theory as it is a simple yet
